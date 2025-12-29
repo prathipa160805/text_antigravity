@@ -40,7 +40,7 @@ Clone the repository
 Bash
 
 Copy code
-git clone https://github.com/yourusername/FitTrack.git
+git clone https://localhost:8080/
 cd FitTrack
 Install dependencies
 Bash
